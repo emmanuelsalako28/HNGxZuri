@@ -4,5 +4,17 @@
 
 .imagaes{
     width: 30%;
-    
+    margin-left:50%;
+ 
+}
+.imagaes img{
+  width: 40%;
+  border-radius:80px ;
+}
+.day, .time, .track, .githubURL{
+    text-shadow: 2px 2px 5px red;
+    font-size: 30px;
+}
+.githubURL a{
+    text-decoration:none
 }
